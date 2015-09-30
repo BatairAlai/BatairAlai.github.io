@@ -2,8 +2,7 @@
 title: Samuel Cabrera
 email: samuelbcabrera@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my website with project portfolio and updates in my programming
-  journey with The Odin Project and other stand alone projects.
+  This is my  project portfolio and blog while I tackle The Odin Project and other stand alone projects.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
